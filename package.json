@@ -1,13 +1,12 @@
 {
-  "name": "learn quick",
+  "name": "replay",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-
   "dependencies": {
     "body-parser": "1.18.3",
-  	"cookie-parser": "1.4.3",
-  	"ejs": "2.6.1",
-    "express": "*",
+    "cookie-parser": "1.4.3",
+    "ejs": "2.6.1",
+    "express": "4.16.4",
     "express-device": "0.4.2",
     "fs": "0.0.2",
     "path": "0.12.7"
@@ -17,3 +16,4 @@
     "npm": "5.7.1"
   }
 }
+    
